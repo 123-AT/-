@@ -1,0 +1,7 @@
+input{
+  border: 1px dashed blue;
+  margin: 20px 0;
+}
+button{
+  margin-top: 20px;
+}
